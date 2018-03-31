@@ -1,0 +1,1 @@
+Just give me a basic alpine image that can do git
